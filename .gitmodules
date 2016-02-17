@@ -1,0 +1,3 @@
+[submodule "explorations_testmathlib"]
+	path = explorations_testmathlib
+	url = https://stash.lsstcorp.org/scm/ts/explorations_testmathlib.git
